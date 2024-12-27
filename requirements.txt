@@ -19,6 +19,7 @@ faiss-cpu
 langchain-openai
 langchain_experimental
 langchain_chroma
+langchain-ollama
 langchain[docarray]
 datasets
 sentencepiece
