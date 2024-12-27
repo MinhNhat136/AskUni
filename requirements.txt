@@ -41,3 +41,7 @@ bitsandbytes
 psutil
 setuptools
 speedtest-cli
+fitz
+PyMuPDF
+frontend
+tools
