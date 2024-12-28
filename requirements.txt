@@ -45,3 +45,5 @@ fitz
 PyMuPDF
 frontend
 tools
+docarray
+giskard
